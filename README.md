@@ -1,7 +1,7 @@
 
 # GitHubSeacher
 
-It's a iOS simple project that implement [GitHub search](https://developer.github.com/v3/search/#search-users) function. 
+It's an iOS simple project that implement the function of [GitHub search](https://developer.github.com/v3/search/#search-users). 
 
 ## Requirements
 
